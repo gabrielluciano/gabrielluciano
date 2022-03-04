@@ -1,0 +1,42 @@
+# Hi there, I'm Gabriel Luciano 👋
+
+Welcome to my profile! I'm an Electronics technician and Mechanical Engineer from Brazil who loves technology. I am currently a web development student aiming to become a fullstack developer.
+
+## About me
+- ⚡ I'm 24 years old
+- 🤖 I have experience in robotics having developed autonomous robots for competitions by [UFFight Robótica](https://www.instagram.com/uffightrobotica/)
+- 🌱 I'm currently focused on JavaScript and NodeJS
+- 🥅 2022 Goals: Contribute to open source projects on Github
+- 🔍 Take a look at my repositories feel free to comment!
+
+## Languages and Tools
+Some of the languages and tools that I already used or am learning
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="32" width="32" style="filter: invert(30%) sepia(6%) saturate(0%) hue-rotate(273deg) brightness(94%) contrast(90%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img height="60" width="60" style="filter: invert(30%) sepia(6%) saturate(0%) hue-rotate(273deg) brightness(94%) contrast(90%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img height="32" width="32" style="filter: invert(30%) sepia(6%) saturate(0%) hue-rotate(273deg) brightness(94%) contrast(90%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+</div>
+
+## Github Stats
+
+[![Gabriel's GitHub Stats](https://gabriel-github-readme-stats.vercel.app/api?username=gabrielluciano&show_icons=true&theme=dracula )](https://github.com/gabrielluciano?tab=repositories)
+
+[![Top Langs](https://gabriel-github-readme-stats.vercel.app/api/top-langs/?username=gabrielluciano&layout=compact&theme=dracula)](https://github.com/gabrielluciano?tab=repositories)
