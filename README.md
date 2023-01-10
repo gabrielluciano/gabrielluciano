@@ -6,7 +6,6 @@ Welcome to my profile! I'm an Electronics technician and Mechanical Engineer fro
 - ⚡ I'm 24 years old
 - 🤖 I have experience in robotics having developed autonomous robots for competitions by [UFFight Robótica](https://www.instagram.com/uffightrobotica/)
 - 🌱 I'm currently focused on Angular and Java
-- 🥅 2022 Goals: Contribute to open source projects on Github
 - 🔍 Take a look at my repositories feel free to comment!
 
 ## Languages and Tools
