@@ -7,7 +7,7 @@ Welcome to my profile! I'm an Electronics technician and Mechanical Engineer fro
 - 🤖 I have experience in robotics having developed autonomous robots for competitions by [UFFight Robótica](https://www.instagram.com/uffightrobotica/)
 - 🌱 I'm currently focused on Angular and Java with Spring Boot
 - 🔍 Take a look at my repositories feel free to comment!
-- 💼 Also, follow me on [Linkedin](https://www.linkedin.com/feed/)
+- 💼 Also, follow me on [Linkedin](https://www.linkedin.com/in/gabriel-lucianosouza/)
 
 ## Languages and Tools
 Some of the languages and tools that I already used or am learning
