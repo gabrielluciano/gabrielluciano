@@ -3,10 +3,11 @@
 Welcome to my profile! I'm an Electronics technician and Mechanical Engineer from Brazil who loves technology. I am currently a web development student aiming to become a fullstack developer.
 
 ## About me
-- ⚡ I'm 24 years old
+- ⚡ I'm 25 years old
 - 🤖 I have experience in robotics having developed autonomous robots for competitions by [UFFight Robótica](https://www.instagram.com/uffightrobotica/)
-- 🌱 I'm currently focused on Angular and Java
+- 🌱 I'm currently focused on Angular and Java with Spring Boot
 - 🔍 Take a look at my repositories feel free to comment!
+- 💼 Also, follow me on [Linkedin](https://www.linkedin.com/feed/)
 
 ## Languages and Tools
 Some of the languages and tools that I already used or am learning
