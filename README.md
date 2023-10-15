@@ -1,11 +1,11 @@
 # Hi there, I'm Gabriel Luciano 👋
 
-Welcome to my profile! I'm an Electronics technician and Mechanical Engineer from Brazil who loves technology. I am currently a web development student aiming to become a fullstack developer.
+Welcome to my profile! I'm a Software Development student from Brazil who loves technology. I also have a degree in Mechanical Engineering from UFF and I am an Electronics technician
 
 ## About me
 - ⚡ I'm 25 years old
 - 🤖 I have experience in robotics having developed autonomous robots for competitions by [UFFight Robótica](https://www.instagram.com/uffightrobotica/)
-- 🌱 I'm currently focused on Angular and Java with Spring Boot
+- 🌱 I'm currently focused on improving my Java skills with frameworks like Spring Boot and Quarkus, and Cloud Native Applications.
 - 🔍 Take a look at my repositories feel free to comment!
 - 💼 Also, follow me on [Linkedin](https://www.linkedin.com/in/gabriel-lucianosouza/)
 
@@ -14,6 +14,7 @@ Some of the languages and tools that I already used or am learning
 
 <div>
 <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img height="45" width="45" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" />
 <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
