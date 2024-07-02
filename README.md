@@ -3,9 +3,10 @@
 Welcome to my profile! I'm a Software Development student from Brazil who loves technology. I also have a degree in Mechanical Engineering from UFF and I am an Electronics technician
 
 ## About me
-- ⚡ I'm 25 years old
+- ⚡ I'm 26 years old
+- 🏢 I am currently working as a Systems Analyst but looking to move to a Junior Software Developer position.
+- 🌱 I'm also focused on improving my Java skills with frameworks like Spring Boot and Cloud Native Applications.
 - 🤖 I have experience in robotics having developed autonomous robots for competitions by [UFFight Robótica](https://www.instagram.com/uffightrobotica/)
-- 🌱 I'm currently focused on improving my Java skills with frameworks like Spring Boot and Quarkus, and Cloud Native Applications.
 - 🔍 Take a look at my repositories feel free to comment!
 - 💼 Also, follow me on [Linkedin](https://www.linkedin.com/in/gabriel-lucianosouza/)
 
